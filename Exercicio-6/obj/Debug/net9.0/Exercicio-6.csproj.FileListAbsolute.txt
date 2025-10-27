@@ -1,0 +1,14 @@
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\bin\Debug\net9.0\Exercicio-6.exe
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\bin\Debug\net9.0\Exercicio-6.deps.json
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\bin\Debug\net9.0\Exercicio-6.runtimeconfig.json
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\bin\Debug\net9.0\Exercicio-6.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\bin\Debug\net9.0\Exercicio-6.pdb
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.AssemblyInfoInputs.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.AssemblyInfo.cs
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.csproj.CoreCompileInputs.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\refint\Exercicio-6.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.pdb
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\Exercicio-6.genruntimeconfig.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-6\obj\Debug\net9.0\ref\Exercicio-6.dll
