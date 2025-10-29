@@ -1,0 +1,15 @@
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.AssemblyInfoInputs.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.AssemblyInfo.cs
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.csproj.CoreCompileInputs.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.sourcelink.json
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\bin\Debug\net9.0\Exercicio-8.exe
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\bin\Debug\net9.0\Exercicio-8.deps.json
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\bin\Debug\net9.0\Exercicio-8.runtimeconfig.json
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\bin\Debug\net9.0\Exercicio-8.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\bin\Debug\net9.0\Exercicio-8.pdb
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\refint\Exercicio-8.dll
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.pdb
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\Exercicio-8.genruntimeconfig.cache
+C:\Repositorio-Lucas\Exercicio-C#\Exercicio-8\obj\Debug\net9.0\ref\Exercicio-8.dll
